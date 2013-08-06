@@ -1,0 +1,4 @@
+# .22 SILENCER (OpenSCAD) 
+
+#### Description
+An OpenSCAD file that allows a user to generate an STL file of a silencer custom made to their specs. File is optimized for easy modification. Parameters such as barrel diameter, projectile caliber, and size of the silencer are easily changed. Due to the strength limitations of ABS and PLA plastic, print this at your own risk. This design probably works best with air rifles and paintball guns, perhaps a .22 rifle if your are lucky. However, higher caliber rifles will probably blow this to smithereens. Use a 100% fill when printing for maximum durability. Remember supersonic projectiles will make a loud boom when they break the sound barrier, thus rendering any silencing effect of any silencer useless. When using any silencer, make sure to use subsonic ammunition for maximum noise reduction. To open and modify this file, download the free OpenSCAD program.

@@ -1,7 +1,7 @@
 fosscad-repo
 ============
 
-Welcome to FOSSCAD. This liberary is a collection of newest FOSSCAD CAD files including all previous DEFCAD Megapacks, i.e., Megapacks 4.2 (Saito), 4,3 (Tetsuo) and 4.4 (Raiden). This Library hence replaces all previous Megapacks. These files are not being released by Defense Distributed. 
+Welcome to FOSSCAD. This library is a collection of newest FOSSCAD CAD files including all previous DEFCAD Megapacks, i.e., Megapacks 4.2 (Saito), 4,3 (Tetsuo) and 4.4 (Raiden). This Library hence replaces all previous Megapacks. These files are not being released by Defense Distributed. 
 
 # License
 

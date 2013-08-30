@@ -1,8 +1,19 @@
 # The Experiment
 
+#### Version 
+
+1.1
+
 #### Description 
 
-The Experiment pistol by RollaTroll.  It uses a few rubber bands for pulling the hammer slider and a nail of the appropriate size (just use the one you may have used for the Liberator).  This is my first origninal design of anything so just try it and see if it works. I would appreciate your feedback.  I made it over the course of 3 days, so if there is something wrong with it (and I'm sure there is), just tell me and I'll try to fix it (or you can do it yourself if you like). 
+The Experiment pistol by RollaTroll.  This is a revision of The Experiment to version 1.1. It includes:  
+
+* Stronger, wider trigger.  
+* Fixed hole in hammer slide.  
+* Added necessary cutout from underside of hammer slide to allow for cocking and firing (was completely useless otherwise).  
+* Small gaps (.5mm) on moving parts to avoid friction.
+
+It uses a few rubber bands for pulling the hammer slider and a nail of the appropriate size (just use the one you may have used for the Liberator).  This is my first origninal design of anything so just try it and see if it works. I would appreciate your feedback.  I made it over the course of 3 days, so if there is something wrong with it (and I'm sure there is), just tell me and I'll try to fix it (or you can do it yourself if you like). 
 
 #### Instructions
 

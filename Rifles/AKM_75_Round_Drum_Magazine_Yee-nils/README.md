@@ -17,6 +17,7 @@ All parts should be printed at 100% infill.
 #### Assembly
  
 View the exploded view for reference
+
 1. Place the torsion spring inside the inner circle of the large drum body. The spring's outer key should align with a notch in the center ring of the body. The spring should be inserted into the body in the clockwise orientation.
 2. Feed the guide rod through the hole in the front of the drum body, while aligning the small slot with the torsion spring's center loop.
 3. Place the torsion spring cap over said spring. It should fit snugly.
@@ -39,6 +40,7 @@ The procedure for loading the drum is very similar to that of other drums.
  
  
 #### TODO
+
 * Modular magazine body (e.g. interface with SKS)
 * Adapt drum to accept readily-available torque springs
 * Adjust for tolerances/reliability

@@ -4,7 +4,7 @@
 The Howard  Pistol (after ex Australian PM, John Howard) by RollaTroll. Designed for 9×19mm Parabellum. Although similar to the Sacramento, it is mostly based off of The Experiment, an earlier design of mine. Thanks to the Sacramento for the links to mcmaster.com, making it so much easier to design, taking about 2 weeks in total, including initial sketches.
 
 #### Assembly
-Follow video instruction if need be. Otherwise, make it a challenge and try to work it out yourself.
+Follow [video instruction](https://www.youtube.com/watch?v=SxwdMOVvLeg) if need be. Otherwise, make it a challenge and try to work it out yourself.
 
 ##### You will need to print:
 

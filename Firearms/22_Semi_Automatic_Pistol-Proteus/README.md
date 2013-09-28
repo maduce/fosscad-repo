@@ -57,7 +57,7 @@ Even if your area is not listed here, be aware of your local laws.
 
 #### Credits
 
-Created by Proteus
-Credit for trigger section of receiver goes to Shanrilivan for his Charon v3.0 design
-Credit for the original 10/22 magazine design goes to nilsson.
+* Created by Proteus
+- Credit for trigger section of receiver goes to Shanrilivan for his Charon v3.0 design
+- Credit for the original 10/22 magazine design goes to nilsson.
 

@@ -34,7 +34,7 @@ This pack is a collection of newest FOSSCAD CAD files including all previous DEF
 * Rifles/AR_Style_Grip_for_Lower_Reciever/
 * Rifles/WarFairy_Charon_v3-Shanrilivan/
 * Rifles/WarFairy_Hermes_V1-Shanrilivan/
-* Firearms/22_Semi_Automatic_Pistol-Proteus/
+* Firearms/22_Semi_Automatic_Pistol_v1.1-Proteus/
 * Firearms/Liberators/Custom-16_Liberator_Round_Grip-RollaTroll/
 * Firearms/PASS-44_Pistol-Proteus/
 * Firearms/Reprringer_Hexen__v3.0_Derringer_Pepperbox_Gun-franco/

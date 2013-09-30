@@ -10,7 +10,7 @@ This pack is a collection of newest FOSSCAD CAD files including all previous DEF
 
 # Version
 
-* 4.6RC
+* 4.6 (Tachikoma)
 
 # Author
 * FOSSCAD

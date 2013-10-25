@@ -9,6 +9,13 @@ Proteus
 #### Caliber(s)
 .380 ACP
 
+#### Changelog
+
+* Fixed barrel to hold round correctly
+* Added rifling
+* Fixed issues with upper and re-split
+* Added single shot custom lower
+
 #### Description
 Print two halves of upper. MEK together, make sure the holes line up in a lower. Single shot lower included but will work on any AR-15 lower. Acquire metal FCG (Printed disconnector works). Put FCG into lower, you do not need mag release etc. Give barrel an acetone vapor treatment. Load barrel by inserting round in back, inserting into upper, twist 45 degrees for a lock. Roofing nail into firing pin hole, make sure it lines up with the hammer. 
 

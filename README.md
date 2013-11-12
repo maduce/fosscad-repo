@@ -25,7 +25,7 @@ This pack is a collection of newest FOSSCAD CAD files including all previous DEF
 # Twitter
 * http://twitter.com/fosscad
 
-# Changelog 4.6RC 
+# Changelog 4.6
 
 * Pistols/AR15_Single_Shot_Upper_Reciever-Proteus/
 * Rifles/AKM_75_Round_Drum_Magazine_Yee-nils/

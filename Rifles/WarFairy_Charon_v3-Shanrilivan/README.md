@@ -99,6 +99,10 @@ All parts are oriented for direct printing. I leave print options up to you and 
 #### Assembly Instructions
 The guide nubs and divots on each part should steer you in the right direction as far as location. I highly recommend using a proper ABS Cement and allowing at least 24 hours after gluing before test firing. Ensure the Fire control pocket and buffer tubes are clear of any support material or significant deviations before assembly. Assemble 3 parts of Magwell first. Ensure bolt release slot and magazine release tube are well formed and free of obstruction. Apply grip to magwell. Assemble Stock Sections. Apply Stock to grip. Place buffer tube sections into respective areas on upper flat of stock and grip. Allow glue to set before test fire.
 
+#### Magazine Release Cover
+For California residents: Legality of this part is unknown, but should satisfy the law requiring a tool to release the magazine. Print as oriented, and glue in place over top of the magazine relase after it is installed, with the highest corner to the bottom and rear.
+
+
 #### Warnings
 THESE FILES ARE UNTESTED. PRINT AND FIRE AT YOUR OWN RISK. I assume no responsibilty.
 

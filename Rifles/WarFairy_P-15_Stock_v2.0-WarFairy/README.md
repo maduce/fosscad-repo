@@ -13,13 +13,7 @@ This is a Stock Set for the AR-15 based on modified ergonomics from the FN P-90 
 
 #### Printing
 
-If you have a printer too small for the complete stock, please print all P-15 files NOT marked Complete.
-
-If you have a printer large enough for the complete stock, please print P-15_Tube_Complete and P-15_V2_Complete.
-
-The Butt Cover, Butt Pad and 6x Butt Pegs are required. The Butt Spacer is optional and requires an additional 4x Butt Pegs per spacer added. Butt Spacer adds 10mm to Length of Pull (Distance between trigger and shoulder).
-
-Print all files as they are oriented. Support Material should not be required, but use your discretion.
+If you have a printer too small for the complete stock, please print all P-15 files NOT marked Complete.  If you have a printer large enough for the complete stock, please print P-15_Tube_Complete and P-15_V2_Complete.  The Butt Cover, Butt Pad and 6x Butt Pegs are required. The Butt Spacer is optional and requires an additional 4x Butt Pegs per spacer added. Butt Spacer adds 10mm to Length of Pull (Distance between trigger and shoulder).  Print all files as they are oriented. Support Material should not be required, but use your discretion.
 
 #### Assembly
 

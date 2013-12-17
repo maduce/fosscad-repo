@@ -1,4 +1,4 @@
-# FOSSCAD Trigger Module (rev 5)
+# FOSSCAD Trigger Module
 
 #### Author
 
@@ -6,4 +6,4 @@ shadowfall
 
 #### Description
 
-This is the FOSSCAD Triger Module revision 5 (see Renders/module_assembled-printed.jpg). The module provides a 3d drop in FCG for FOSSCAD compatible AR plateforms. it requires that you use a AR-15 parts kits.  You can then assemble said parts into the module and install it into a FOSSCAD compatible lower receiver (included in the folder).  The module requires a 3mm cross pin to hold it in place (see crosspin.stl) which can be printed, however, a metal cross pin is recommended.  This pin should be as long as the outside of the receiver.
+This is the FOSSCAD AR-15 Trigger Module with compatible Lower receivers by shadowfall(see Renders folder). The module provides a drop in FCG (think p90 trigger module) for FOSSCAD compatible AR platforms. it requires that you use a AR-15 lower parts kits.  You can then assemble said parts into the module and install it into a compatible lower receiver (included in the folder).  The module requires 3mm cross pins to hold in place (see crosspin.stl) which can be printed, however, metal cross pins are recommended.  The pins should be as long as the outside of the receiver. More compatible lowers to come.

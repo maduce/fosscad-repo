@@ -1,4 +1,7 @@
-# Hydra Liberator Rifle -Proteus
+# Hydra Liberator Rifle 
+
+#### Author
+Proteus
 
 #### Version
 2.0

@@ -1,4 +1,7 @@
-# Liberator Glock Frame -Proteus
+# Liberator Glock Frame 
+
+#### Author
+Proteus
 
 #### Version 
 1.0

@@ -1,4 +1,4 @@
-# Defcad Reprringer
+# Reprringer 6mm
 
 #### Author
 free-d

@@ -1,6 +1,9 @@
-#AR-15 Hard Mag Pouch V3
+#AR-15 Hard Mag Pouch
 
-# ASSEMBLY: 
+#### Version
+3.0
+
+#### ASSEMBLY: 
 
 Glue Collar part 2 to flat side (without nubs) of Collar Part 1 so that groove allows spring tab movement. Glue Collar assembly to circular flat of chosen clip. Position Clip Assembly on circular area of chosen pouch. Apply glue to tip of Clip Peg and pass through hole in pouch from inside. DO NOT GLUE INTERIOR FACE OF CLIP PEG OR HOLE unless you do NOT want to be able to adjust carry angle.
 

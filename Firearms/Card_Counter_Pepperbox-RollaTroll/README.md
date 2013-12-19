@@ -1,4 +1,4 @@
-# card Counter Pepperbox
+# Card Counter Pepperbox
 
 #### Author 
 RollaTroll

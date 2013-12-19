@@ -1,4 +1,4 @@
-# Single Shot AR-15 Upper
+# Single Shot AR-15 Upper Receiver
 
 #### Author 
 Proteus

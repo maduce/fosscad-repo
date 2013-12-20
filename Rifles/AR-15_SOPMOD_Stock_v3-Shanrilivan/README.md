@@ -1,4 +1,7 @@
-#The WarFairy SOPMOD AR-15 Stock by Shanrilivan
+# WarFairy SOPMOD AR-15 Stock
+
+#### Author
+Shanrilivan
 
 Feel free to use these model files in any way you so choose. Hack em, slice em, burn em, sell em, you're a free person, act like it. Check local laws before printing ANYTHING relating to firearms. Printer assumes all liability. I'm not your parents.
 

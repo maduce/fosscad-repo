@@ -1,7 +1,10 @@
-# AKM 75 Round Drum Magazine (Yee) v0.1
+# AKM 75 Round Drum Magazine (Yee)
 
 #### Author
 nils
+
+#### Version 
+v0.1
 
 #### License: 
 * The GNU General Public License v3.0

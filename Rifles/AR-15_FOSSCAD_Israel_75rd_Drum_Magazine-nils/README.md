@@ -1,4 +1,4 @@
-# AR-15 75rd 5.56mm Drum Magazine (The Israel)
+# AR-15 75 round 5.56mm Drum Magazine (The Israel)
 
 #### Author
 nils

@@ -10,7 +10,7 @@ nils
 * The GNU General Public License v3.0
 
 ### Description
-A 75 round drum based off of the classic AKM/RPK drum, dedicated to the gun-grabbing California State Senator Yee. This CAD contains parts derived from Defense Distributed's Feinstein Magazine.
+A 75 round drum based off of the classic AKM/RPK drum, dedicated to the gun-grabbing California State Senator Yee. This CAD contains parts inspired by the Defense Distributed Feinstein Magazine.
 
 ### Construction
 **WARNING** This is an alpha-quality release. A working drum will require significant manual adjustment.

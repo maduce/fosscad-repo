@@ -13,8 +13,7 @@ GPL v3.0
 A 75 round drum based off of the classic AKM/RPK drum, adapted to hold the 5.56mm cartridge. This CAD contains parts inspired by the Defense Distributed Cuomo Magazine.
 
 #### Construction
-**WARNING** This is an alpha-quality release. A working drum will require significant manual adjustment. All parts should be printed at 100% infill. 
-
+**WARNING** This is an alpha-quality release. A working drum will require significant manual adjustment. All parts should be printed at 100% infill.
 
 #### Assembly
 
@@ -37,7 +36,6 @@ A 75 round drum based off of the classic AKM/RPK drum, adapted to hold the 5.56m
 4. Insert ammunition into the available spaces
 5. Replace the rear cover, taking care to properly align the winder with the top of the key
 6. Turn the winder counter-clockwise until sufficient tension has been achieved
-
 
 #### TODO
 * Adapt drum to accept readily-available torque springs

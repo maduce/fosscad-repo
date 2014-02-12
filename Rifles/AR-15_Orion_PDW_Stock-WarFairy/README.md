@@ -1,7 +1,7 @@
 # The Orion AR-15 PDW Stock
 
 #### Author 
-Warfairy
+WarFairy
 
 #### Description
 This stock is mean to shorten the AR-15 while giving more adjustability to the length of pull, with the User notching the stock arms to make it the perfect length for their particular arms.

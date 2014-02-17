@@ -5,7 +5,7 @@
 
 #### Description
 
-This release is meant to be the lightest AR-15 lower possible. Total weight, not including any support material used, is just a hair over 0.65 pounds (+/- 295 grams)
+The Hermes series release is meant to be the lightest AR-15 lowers possible. Total weight, not including any support material used, is just about 0.643 lbs (Vanilla Hermes 0.296 lbs).
 
 #### Instructions
 

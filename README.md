@@ -10,7 +10,7 @@ This pack is a collection of the newest FOSSCAD CAD files including all previous
 
 # Version
 
-* 4.7 RC
+* 4.7 (Aramaki)
 
 # Author
 * FOSSCAD

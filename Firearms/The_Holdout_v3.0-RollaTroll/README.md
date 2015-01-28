@@ -61,8 +61,9 @@ I started v1 of this design in January of 2014. Having recently finished the Har
 Anyway, this design marks the end of guns from me for a while. I _will_ return, but I think this should tide things over. I would love to see someone else make a better design, as I have been filling this niche for a while now. I am untrained, so I have no doubt things can be done better. Along with that though, I hope this can replace the Liberator. It is better in almost every measurable way. Printability, weight, safety and durability. So stop saying printed guns are horrible, the Liberator was a stepping stone, not the final product. This too is only a stepping stone, so feel free to modify this as you wish. If you modify this, it is highly recommended that you credit me in some way. Please do not redistribute this outside of the FOSSCAD Megapack. I do not want this publicized, though I understand I cannot stop it.
 
 All the best! Be safe and have fun.
-    ______      _____    ______        _____
-    |  _  \ ____| | | __/__  _/ __ ____| | |
-    | |_| // __ | | |/ _  | | |/ _/ __ | | |
-    |  _  \| || | | | |_| | |   / | || | | |
-    |__|\__\____|_|_|\__/||_|__/  \____|_|_|
+....______......_____....______........_____
+....|.._..\.____|.|.|.__/__.._/.__.____|.|.|
+....|.|_|.//.__.|.|.|/._..|.|.|/._/.__.|.|.|
+....|.._..\|.||.|.|.|.|_|.|.|.../.|.||.|.|.|
+....|__|\__\____|_|_|\__/||_|__/..\____|_|_|
+................................................

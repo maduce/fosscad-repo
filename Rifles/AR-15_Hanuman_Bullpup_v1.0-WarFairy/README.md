@@ -1,9 +1,19 @@
-# WarFairy presents: The Hanuman, AR-15 Based Bullpup
+#WarFairy Hanuman AR-15 Based Bullpup Receiver
 
-####WARNING
-This file set is meant as a proof of concept. It is a prototype. There is no safety. There is no guarantee it will not harm or kill its operator. There is no guarantee it is legal in your location in all configurations. OAL Guidelines are stated with Federal Law in mine for the USA. Check for Local Laws before printing ANY firearm.
+#### Author
+Warfairy
+
+#### Version
+1.1
+
+#Description 
+
+This is the Hanuman, an AR-15 Based Bullpup. This file set is meant as a proof of concept. It is a prototype. There is no safety. There is no guarantee it will not harm or kill its operator. There is no guarantee it is legal in your location in all configurations. OAL Guidelines are stated with Federal Law in mine for the USA. Check for Local Laws before printing ANY firearm.
 
 This design REQUIRES a bufferless AR-15 upper. Suitable platforms are the ARAK-21, Rock River Arms PDS Carbine, and CMMG Style .22LR Conversions for regular Upper Receivers. Use of 5.56/.223 with a standard BCG WILL result in catastrophic failure of the firearm, which could result in serious or fatal injury. I say again, DO NOT USE A STANDARD BCG IN THIS FIREARM.
+
+Included in this design is a simple (optional but recommended) charge handle designed by patrickiv and RollaTroll. It is a single printed piece that slides along the Picatinny rail on top of the upper receiver. The concept is to give a standard AR a method of charging that is closer to the off hand while reloading or clearing a malfunction. When it is pulled back, one of the feet at the back actuates the catch on the rifle's original charging handle.  This charge handle design was initial created for the Hanuman Bullpup AR Lower Receiver but can be used other rails (resp.). The charge handle will work without issue on any upper with a picatinny rail, and should work with any charging handle. Optics interference will require forward mounting of a red dot sight or long eye relief scope.
+
 
 ##### OAL, the NFA, and YOU
 If you are using an upper receiver with a 16" barrel, you must use the 3 Inch Buttpad Extension to meet the minimum legal OAL of 26". With a 16" barrel, the OAL of the platform is 26.25". If you are using an 18" barrel, you must use at least the 1" Buttpad Extension, bringing the OAL to 26.25". If you are using a 20" barrel, you may use the 1/4" buttpad extension without fear of breaking laws concerning SBR minimum overall lengths.

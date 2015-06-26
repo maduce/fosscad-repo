@@ -1,7 +1,7 @@
 fosscad-repo
 ============
 
-This pack is a collection of the newest FOSSCAD CAD files including all previous Megapacks, i.e., Megapacks 4.2 (Saito), 4,3 (Tetsuo), 4.4 (Raiden), 4.5 (Otacon) and 4.6 (Tachikoma). This Megapack hence replaces all previous Megapacks. These files are not being released by Defense Distributed or DEFCAD Incorporated.  
+This pack is a collection of the newest FOSSCAD CAD files including all previous Megapacks, i.e., Megapacks 4.2 (Saito), 4,3 (Tetsuo), 4.4 (Raiden), 4.5 (Otacon) and 4.6 (Tachikoma). This Megapack hence replaces all previous Megapacks. These files are not being released by Defense Distributed or DEFCAD Incorporated.
 
 # License
 

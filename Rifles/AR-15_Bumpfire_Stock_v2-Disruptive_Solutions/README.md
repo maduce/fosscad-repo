@@ -8,7 +8,7 @@ Looking through a thread about printing a bump fire stock I saw a lot of interes
 
 * Stock body 1.igs
 * Stock body 2.igs
-* Stock body 3.stl
+* Stock body 3.igs
 * Grip Plug.igs
 * Stock body 1.stl
 * Stock body 2.stl

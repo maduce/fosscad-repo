@@ -43,49 +43,49 @@ An unknown version (presumably 1.8) was printed in ABS by an anonymous user. The
 * Use rubber bands or condoms to power the hammer, trigger, and barrel catch.
 
 #### Changelog
-* Changes from 1.0:
-- Barrel and frame have been shortened by 10mm.
+1. Changes from 1.0:
+  * Barrel and frame have been shortened by 10mm.
 
-* Changes from 1.1:
--Barrel and frame have been shortened by another 10mm.
+2. Changes from 1.1:
+  * Barrel and frame have been shortened by another 10mm.
 
-* Changes from 1.2:
--Fixed issue with bore in frame.
+3. Changes from 1.2:
+  * Fixed issue with bore in frame.
 
-* Changes from 1.3:
--Moved spacer from right side of hammer to right inside wall of frame.
+4. Changes from 1.3:
+  * Moved spacer from right side of hammer to right inside wall of frame.
 
-* Changes from 1.4:
--Added frame cap.
+5. Changes from 1.4:
+  * Added frame cap.
 
-* Changes from 1.5:
--Enlarged bore.
+6. Changes from 1.5:
+  * Enlarged bore.
 
-* Changes from 1.6:
--Extended trigger pin and hammer pin.
+7. Changes from 1.6:
+  * Extended trigger pin and hammer pin.
 
-* Changes from 1.7:
--Added "barrel short barrel insert" by FP.
+8. Changes from 1.7:
+  * Added "barrel short barrel insert" by FP.
 
-* Changes from 1.8:
--Modified frame, hammer, and barrel catch to eliminate need to cut and tie rubber bands.
--Simplified barrel catch and removed hole in frame for barrel catch.
--Relocated weight cavity to left side to eliminate support in handle.
--Added posts in weight cavity to prevent overinsertion of frame cap.
--Modified trigger to to reduce support material.
--Redesigned firing pin retainer to eliminate need for filament.
--Added two new barrel types to try.
--Increased clearance around trigger pivot.
+9. Changes from 1.8:
+  * Modified frame, hammer, and barrel catch to eliminate need to cut and tie rubber bands.
+  * Simplified barrel catch and removed hole in frame for barrel catch.
+  * Relocated weight cavity to left side to eliminate support in handle.
+  * Added posts in weight cavity to prevent overinsertion of frame cap.
+  * Modified trigger to to reduce support material.
+  * Redesigned firing pin retainer to eliminate need for filament.
+  * Added two new barrel types to try.
+  * Increased clearance around trigger pivot.
 
-* Changes from 2.0:
--Removed slots from sides of frame.
--Relocated embossment.
--Renders have not been updated.
+10. Changes from 2.0:
+   * Removed slots from sides of frame.
+   * Relocated embossment.
+   * Renders have not been updated.
 
-* Planned changes for 3.0:
--Print frame in two halves and solvent weld, with alignment pegs.
--Add drop safety.
--Reduce support material.
+11. Planned changes for 3.0:
+   * Print frame in two halves and solvent weld, with alignment pegs.
+   * Add drop safety.
+   * Reduce support material.
 
 #### DISCLAIMER
 Use this information at your own risk and responsibility.

@@ -1,35 +1,28 @@
 # JamesRPatrick PM422 Songbird .22LR Pistol
 
 #### Author
-
 JamesRPatrick
 
 #### Version
-
 2.1
 
 #### License
-
 Copyright Jamesrpatrick.com 2015 distributed under the GNU General Public License v3.0 (GPLv3). 
 
 #### Release Date
-
 2015/09/29
 
 #### Description
-
 This is a single-shot, single-action 3d-printed pistol chambered in .22LR. It operates under a principle wherein the frame holds the barrel in compression axially and prevents the barrel layers from separating. This allows the barrel to be smaller in diameter than previous, unsupported designs. 100% printed barrels are not intended to have a long service life.
 
 Special thanks to FP of FOSSCAD for printing and test firing this design.
 
 #### Test Record
-
 Version 1.7 was printed with 100% infill in ABS on a Rostock Max. The 100% printed barrel withstood 3 rounds without rupturing. The casing became stuck in the barrel and testing could not be continued on the firearm as designed. A printed barrel with a chamber insert lasted 15 rounds before cracking between layers, just forward of the insert, without harm to the operator. Two more 100% printed barrels were made and had a very short service life. A rifled barrel insert was used in a printed barrel that was modified by FP. This lasted many rounds and is still in service.
 
 An unknown version (presumably 1.8) was printed in ABS by an anonymous user. The barrel was printed using Taulman Bridge (a nylon filament). The barrel survived 62 shots and is still functional.
 
 #### Printing
-
 * Requires a print bed of at least 11" diameter or at least 10" x 6" rectangular area.
 * All printed parts are to be printed in ABS, 100% infill, with maximum shells.
 * Use plenty of support material.
@@ -50,7 +43,6 @@ An unknown version (presumably 1.8) was printed in ABS by an anonymous user. The
 * Use rubber bands or condoms to power the hammer, trigger, and barrel catch.
 
 #### Changelog
-
 * Changes from 1.0:
 -Barrel and frame have been shortened by 10mm.
 
@@ -96,5 +88,4 @@ An unknown version (presumably 1.8) was printed in ABS by an anonymous user. The
 -Reduce support material.
 
 #### DISCLAIMER
-
 Use this information at your own risk and responsibility.

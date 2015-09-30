@@ -44,7 +44,7 @@ An unknown version (presumably 1.8) was printed in ABS by an anonymous user. The
 
 #### Changelog
 * Changes from 1.0:
--Barrel and frame have been shortened by 10mm.
+- Barrel and frame have been shortened by 10mm.
 
 * Changes from 1.1:
 -Barrel and frame have been shortened by another 10mm.

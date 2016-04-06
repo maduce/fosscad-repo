@@ -8,7 +8,7 @@ Unnamed
   
 #### Description
 
-Here we have the Gluty AR-15 9mm Pistol and it works. It accepts a Glock generation 3 or 4 magazine. This design is an improvement on the FOSSCAD Shuty AR-15 9mm Pistol version 4.0 MP-1. The Gluty uses all the same parts as the Shuty v4.0 MP-1 except for the lower receiver and magazine release.
+Here we have the Gluty AR-15 9mm Pistol and it works. This firearm is the colloration of 3 designers over the course of a few months. It accepts a Glock generation 3 or 4 magazine. This design is an improvement on the FOSSCAD Shuty AR-15 9mm Pistol version 4.0 MP-1. The Gluty uses all the same parts as the Shuty v4.0 MP-1 except for the lower receiver and magazine release.
 
 #### Non-Printed Parts List
 The following is a list of non-printed parts used in this design. I sourced the springs from ACE Hardware.
@@ -111,4 +111,6 @@ Install the mag release shaft with the mapointed side facing the mag lock arm an
 
 #### Author Notes
 
-Disclaimer: Use these files and instructions at your own risk. These files are for educational use only.
+Disclaimer: Use these files and instructions at your own risk. These files are for educational use only. 
+
+If you have any questions please do not hesitate to chat with us. We are active in IRC on OFTC in #fosscad and on twitter @fosscad. Visit http://fosscad.org/fc/chat/ for more details.

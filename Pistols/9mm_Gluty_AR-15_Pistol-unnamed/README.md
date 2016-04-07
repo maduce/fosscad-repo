@@ -1,9 +1,11 @@
 # Gluty AR-15 9mm Pistol
 
 #### Author
+
 Unnamed 
 
 #### Version
+
 1.0
   
 #### Description
@@ -13,22 +15,33 @@ Here we have the Gluty AR-15 9mm Pistol and it works. This firearm is the collor
 #### Non-Printed Parts List
 The following is a list of non-printed parts used in this design. I sourced the springs from ACE Hardware.
 
-* Magazine - Magpul gl-17
-* Barrel - Lonewolf glock 17 replacement barrel or glock 17 barrel
-* 43.9mm steel dowel length-50.5mm (1018 or A32 1.75in bar  stock)
-* 1/4" steel dowel rod  1-180mm  2-154mm
-* Spring 11/16" x .072 length-175mm (main spring)
-* spring 15/32" x .041 length-65mm (buffer)
-* spring 1/4" x .026   length-9.3mm (firing pin spring)         
-* spring 5/16" x .024  length-26mm (gluty lower mag lock)
-* sheet metal screw #8x13mm phillips (Ejector pivot)
-* sheet metal screw #8x10mm phillips (gluty mag lock pivot)
-* sheet metal screw #8x13mm phillips (mag adapter set screw)
-* sheet metal screw #8x12.6mm phillips x2 (sight rail)
-* sheet metal screw #6x1" phillips x2 (endcap screws)
-* sheet metal screw #6x1.5" hex x4 (barrel retainer)
-* sheet metal screw #6x8.3mm phillips (mag lock set screw)
-* sheet metal screw #6x1" phillips (feed ramp screw)
+* Magazine
+    * **(Quantity) Description**
+    * ( 1 ) Magpul gl-17
+* Barrel:
+    * **(Quantity) Description**
+    * ( 1 ) Lonewolf glock 17 replacement barrel or glock 17 barrel
+* Steel Dowels:
+    * **(Quantity) Description**
+    * ( 1 ) 43.9mm diameter x 50.5mm length (1018 or A32 1.75in bar  stock)
+    * ( 1 ) 1/4" diameter x 180mm length
+    * ( 2 ) 1/4" diameter x 154mm length
+* Springs:
+    * **(Quantity) Description**
+    * ( 1 ) 11/16" x .072WG x 175mm length (main spring)
+    * ( 1 ) 15/32" x .041WG x 65mm length (buffer)
+    * ( 1 ) 1/4" x .026WG x  9.3mm length (firing pin spring)         
+    * ( 1 ) 5/16" x .024WG x 26mm length (gluty lower mag lock)
+* sheet metal screws:
+    * **(Quantity) Description**
+    * ( 1 ) #8x13mm phillips (Ejector pivot)
+    * ( 1 ) #8x10mm phillips (gluty mag lock pivot)
+    * ( 1 ) #8x13mm phillips (mag adapter set screw)
+    * ( 2 ) #8x12.6mm phillips (sight rail)
+    * ( 2 ) #6x1" phillips (endcap screws)
+    * ( 4 ) #6x1.5" hex (barrel retainer)
+    * ( 1 ) #6x8.3mm phillips (mag lock set screw)
+    * ( 1 ) #6x1" phillips (feed ramp screw)
 
 #### Printing Instructions
 
@@ -93,8 +106,6 @@ Insert the buffer spring into the buffer bolt, Make sure that the spring can com
 
 Thread the buffer bolt into the buffer tower. Done!
 
-
-
 ##### Lower Receiver
 
 As with all printed AR lowers you will have to drill out all of the holes for the FCG, safety selector and safety selector locking pin. You will also have to tap the lower for the grip bolt. 
@@ -107,10 +118,9 @@ Install the mag lock arm and pivot, make sure it works smooth and use the pivot 
 
 Install the mag release shaft with the mapointed side facing the mag lock arm and also install the spring before screwing the arm and pivot into place. Install the feed ramp into the lower at the top of the mag well. 
 
-
-
 #### Author Notes
 
 Disclaimer: Use these files and instructions at your own risk. These files are for educational use only. 
 
 If you have any questions please do not hesitate to chat with us. We are active in IRC on OFTC in #fosscad and on twitter @fosscad. Visit http://fosscad.org/fc/chat/ for more details.
+

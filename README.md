@@ -31,7 +31,6 @@ This pack is a collection of the newest FOSSCAD CAD files including all previous
 * Firearms/Parlor_Pistol-Caboose/
 * Firearms/PM422_Songbird_22lr_Pistol_v2.1-JamesRPatrick/
 * Firearms/PM522_Washbear_Revolver_v2.0-JamesRPatrick/
-* Firearms/The_Holdout_v3.0-RollaTroll/
 * Misc/AR-15_Pistol_Cheek_Rest-unnamed/
 * Misc/FOSSCAD_AFG_GRIP-Warfairy/
 * Misc/FOSSCAD_RVG_Vertical_Grip-WarFairy/

@@ -53,10 +53,4 @@ A lower receiver printed in solid infill (recommended) usually requires a fully 
 
 Two sets of .stl files are provided--one with holes and one missing the takedown and FCG holes. A more accurate lower receiver can usually be produced using an "85% lower" drill template instead of printing all the holes. A superior fit of takedown pins with the upper is usually achieved by manually drilling the holes too. Ideally a tap is used to "chase the threads out" in the buffer tower. Alternatively, an Xacto knife may be useful for cleaning problem areas in the threads, followed by initial fittings of the buffer tube to the tower after heating the parts.
 
-In addition to .stp and .igs files, solid model files for DesignSpark Mechanical (DSM) are also provided (.rsdoc) in an unlocked state. DSM may be downloaded for free and used to make minor changes to the solid models, as desired or needed, and re-export the model to mesh files for slicing and printing. DSM 1.0 was used in testing, because DSM 2.0 does not run on WinXP. The DSM 1.0 installer is still available for download and online reports from users indicate that DSM 2.0 was only a minor upgrade to DSM 1.0, in terms of functionality.
-
-DSM 1.0 is available for download here: http://www.rs-online.com/designspark/electronics/eng/knowledge-item/designspark-mechanical-change-log
-DSM 2.0 for Win32 is available for download here: http://eda.designspark.com/receiver/dsm_dl.php?v=32&loc=eng
-DSM 2.0 for Win64 is available for download here: http://eda.designspark.com/receiver/dsm_dl.php?v=64&loc=eng
-
-FreeCAD is also an option for importing and editing the model using the provided .igs or .stp files.
+FreeCAD is also an option for importing and editing the model using the provided .stp files.

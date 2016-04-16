@@ -20,4 +20,4 @@ Looking through a thread about printing a bump fire stock I saw a lot of interes
 * grip plug.jpg
 * README.txt
 
-All Files are provided as is and open source. For help/support visit: http://forums.defcad.com/showthread.php?872-Disruptive-Solutions-Bumpfire-stock
+All Files are provided as is and open source. For help/support visit: http://fosscad.org/chat

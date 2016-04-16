@@ -6,7 +6,9 @@ Warfairy
 #### Version 
 1.4 
 
-#### Description The Hermes series release is meant to be the lightest AR-15 lowers possible. Total weight, not including any support material used, is just about 0.643 lbs (Vanilla Hermes 0.372 lbs). 
+#### Description
+
+The Hermes series release is meant to be the lightest AR-15 lowers possible. Total weight, not including any support material used, is just about 0.643 lbs (Vanilla Hermes 0.372 lbs). 
 
 Unfortunately, this update brings a little more weight in the pursuit of reliability, and the crown of lightest printed lower has been taken over by the Phobos. That being said, look at how sexy that is. LOOK AT IT. REAL RECEIVERS HAVE CURVES!!! 
 

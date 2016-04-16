@@ -8,7 +8,7 @@ Caboose
 
 #### Description
 
-The goal of this project was to make a small parlor pistol. As always, I aim to avoid rafting and support. This parlor pistol is based off of http://www.thingiverse.com/thing:212279 which is a toy dart pistol of my design. 
+The goal of this project was to make a small parlor pistol. As always, I aim to avoid rafting and support. This parlor pistol is inspired by http://www.thingiverse.com/thing:212279 which is a toy dart pistol of my design. 
 
 You can see a demonstration here: http://youtu.be/l3LeLbWkE0o of the toy pistol. 
 

@@ -59,6 +59,7 @@ This pack is a collection of the newest FOSSCAD CAD files including all previous
 * Rifles/AR-15_Lower_Receiver_Aliamanu-Phobos-ArmaDelite/
 * Rifles/AR-15_Lower_Receiver_Atlas_v2.0-Warfairy/
 * Rifles/AR-15_Lower_Receiver_Phobos_v1.2-Warfairy/
+* Rifles/AR-15_Treillage_Stock-Warfairy/
 * Rifles/AR-15_Vanguard_JT_Lower_Receiver_v1.1-JT/
 * Rifles/AR-15_WarFairy_Charon_Lower_Receiver_v4_Warfairy/
 * Rifles/AR-15_Warfairy_Hermes_Lower_Receiver_v1.4-Warfairy/

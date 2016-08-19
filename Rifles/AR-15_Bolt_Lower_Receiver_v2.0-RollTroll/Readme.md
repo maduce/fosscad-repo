@@ -33,7 +33,7 @@ Print/make 1 of all:
 
 * Buffer tower should be printed flat, perpendicular to the print bed, as if the stock were vertical,
 * Grip part should be printed on its side.
-* Mag well front should be printed with the pivot holes away from the print bed. So that the face that is profiled for the * mag well is against the print bed.
+* Mag well front should be printed with the pivot holes away from the print bed so that the interior face that is profiled for the mag well is against the print bed.
 * Mag well back should be printed with the largest falt side against the print bed. This is the side opposite the mag well.
 * Both mag well sides should be printed on their largest flat face, the side opposite the mag well.
 * Both left and right (rear) sides should be printed with the internal facing (flattest) sides against the print bed.

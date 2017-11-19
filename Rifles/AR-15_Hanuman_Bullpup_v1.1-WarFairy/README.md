@@ -1,4 +1,4 @@
-#WarFairy Hanuman AR-15 Based Bullpup Receiver
+# WarFairy Hanuman AR-15 Based Bullpup Receiver
 
 #### Author
 Warfairy
@@ -6,7 +6,7 @@ Warfairy
 #### Version
 1.1
 
-#Description 
+# Description 
 
 This is the Hanuman, an AR-15 Based Bullpup. This file set is meant as a proof of concept. It is a prototype. There is no safety. There is no guarantee it will not harm or kill its operator. There is no guarantee it is legal in your location in all configurations. OAL Guidelines are stated with Federal Law in mine for the USA. Check for Local Laws before printing ANY firearm.
 
@@ -19,7 +19,7 @@ Included in this design is a simple (optional but recommended) charge handle des
 If you are using an upper receiver with a 16" barrel, you must use the 3 Inch Buttpad Extension to meet the minimum legal OAL of 26". With a 16" barrel, the OAL of the platform is 26.25". If you are using an 18" barrel, you must use at least the 1" Buttpad Extension, bringing the OAL to 26.25". If you are using a 20" barrel, you may use the 1/4" buttpad extension without fear of breaking laws concerning SBR minimum overall lengths.
 
 
-####Printing Instructions
+#### Printing Instructions
 USE ABS PLASTIC.
 
 All parts are oriented in optimum direction as far as I can determine, but it is left up to the experience and intuition of the print operator to decide. Support material is recommended to be on. Use settings that minimize warp and shrink, as well as maximizing accuracy and strength. Dimensions are CRITICAL.

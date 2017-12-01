@@ -34,7 +34,7 @@ FINALLY! This is the AP-9 9mm Pistol by Derwood. The AP-9 is inspired by the Shu
 
 * 3/4 inch x 8.5 inch steel dowel
 
-* 3/4 inch x 52.15mm steel dowel
+* 3/4 inch x 51.15mm steel dowel
 
 * Firing pin - 1/4 inch steel dowel
 

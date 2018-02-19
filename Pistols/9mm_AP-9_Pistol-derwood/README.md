@@ -41,5 +41,14 @@ FINALLY! This is the AP-9 9mm Pistol by Derwood. The AP-9 is inspired by the Shu
 #### Instructions
 * Video Instructions by Derwood: https://www.youtube.com/watch?v=ACgnVmFaw1M
 
+#### Build Notes
+* firing pin hole is 9/64
+* The bolt handle is #8-32 threaded rod
+* after you drill the hole in the small part of the bolt use the plastic guide you print to mark the centerline on the bolt pieces for a quick alignment for *welding
+* #8 x 1.5-inch hex head sheet metal screw can be used to hold the barrel retainer on if you cannot find #6 
+* slightly countersink the holes where the plastic meets plastic. 
+* The AR15 FCG needs to have a rounded top hammer
+* Flatten the front of the bolt after you have glued it together with a file or lathe.
+
 #### Changelog
 * v1.1 has upgrade to a steel tip bolt housing and new upper for OEM glock barrel.

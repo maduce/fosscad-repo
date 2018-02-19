@@ -15,27 +15,16 @@ FINALLY! This is the AP-9 9mm Pistol by Derwood. The AP-9 is inspired by the Shu
 
 
 * AR15 buffer spring
-
 * AR15 FCG
-
 * Lonewolf glock 17 replacement barrel
-
 * Magpul glock 17 magazine
-
 * Secondary buffer spring - Hillman 11/16 x 072wg bin #62 part #540186
-
 * #8 x 1.5 inch phillips head sheet metal screw - 4
-
 * #6 x 1.5 inch hex head sheet metal screw - 4
-
 * #6 x 1 inch plillips head sheet metal screw - 2
-
 * #10 x 1.25 inch phillips head metal screw - 1
-
 * 3/4 inch x 8.5 inch steel dowel
-
 * 3/4 inch x 51.15mm steel dowel
-
 * Firing pin - 1/4 inch steel dowel
 
 #### Instructions
@@ -51,4 +40,4 @@ FINALLY! This is the AP-9 9mm Pistol by Derwood. The AP-9 is inspired by the Shu
 * Flatten the front of the bolt after you have glued it together with a file or lathe.
 
 #### Changelog
-* v1.1 has upgrade to a steel tip bolt housing and new upper for OEM glock barrel.
+* v1.1 -  Upgrade to a steel tip bolt housing and new upper for OEM glock barrel.

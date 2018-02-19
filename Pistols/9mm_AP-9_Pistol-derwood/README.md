@@ -42,4 +42,4 @@ FINALLY! This is the AP-9 9mm Pistol by Derwood. The AP-9 is inspired by the Shu
 * Video Instructions by Derwood: https://www.youtube.com/watch?v=ACgnVmFaw1M
 
 #### Changelog
-* v1.1 has upgrade to a steel tip bolt housing and new upper for generic glock barrel.
+* v1.1 has upgrade to a steel tip bolt housing and new upper for OEM glock barrel.

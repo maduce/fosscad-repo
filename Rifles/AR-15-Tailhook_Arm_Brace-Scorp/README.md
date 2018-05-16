@@ -3,10 +3,10 @@
 #### Version
 v5.0
 
-####Author
+#### Author
 Scorp and Brydun
 
-####Description 
+#### Description 
 This is a very compact pistol brace that fits an AR-15 buffer tube. It is partly inspired by the Gear Head Works Tailhook MOD 1 arm brace. There are also stl files in the STL folder for a longer MOD 2 arm brace version.
 
 

@@ -7,7 +7,7 @@ v5.0
 Scorp and Brydun
 
 #### Description 
-This is a very compact pistol brace that fits an AR-15 buffer tube. It is partly inspired by the Gear Head Works Tailhook MOD 1 arm brace. There are also stl files in the STL folder for a longer MOD 2 arm brace version.
+This is a very compact pistol brace that fits an AR-15 buffer tube. It is partly inspired by the Gear Head Works Tailhook MOD 1 arm brace. There are also stl files in the STL folder for a longer MOD 2 arm brace version. This brace is also compatible with CZ Scorpion and Kriss Vector with the correct adapters.
 
 
 #### Parts List

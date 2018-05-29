@@ -22,4 +22,4 @@ This is an adapter to attach the Gear Head Works style Tailhook to the HK MP5 A3
 * Use the Adapter as a drill guide and drill and tap the holes in the back of the stock where the rubber butt pad use to be. There is a piece of metal in rear of the stock, as seen in Renders/picture3.png and Renders/picture7.png, so you will be threading metal holes for your bolts.
 * Install the adapter to the end of the stock with the bolts.
 
-"""Video Instructions by Flood:""" https://www.youtube.com/watch?v=v91Tww7vVFc
+***Video Instructions by Flood:*** https://www.youtube.com/watch?v=v91Tww7vVFc

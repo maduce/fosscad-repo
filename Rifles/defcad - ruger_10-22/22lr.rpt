@@ -1,0 +1,75 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : 22lr
+Receiving System Product I.D.: 22lr
+File Name                    : No Iges File Name specified
+Sending System               : Autodesk Inventor 2012
+Preprocessor Version         : AutoDesk Inventor Iges Exporter R2012
+File Creation Date           : 20120610.130504
+Model Creation Date          : 
+Units                        : MM
+Model Space Scale            : 1
+Author                       : Bandvov
+Organization                 : 
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              14
+  Highest number of significant digits:                     14
+  Average number of significant digits:                12.0408
+  Maximum distance to origin:                          25.6431
+  Minimum distance to origin:                             0.33
+  Effective number of significant digits:              13.9888
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                             33        33
+110  Line                                             7         7
+116  Point                                           23        23
+120  Surface of revolution                            5         5
+123  Direction                                       46        46
+124  Transformation matrix                           29        29
+128  Rational B-spline surface                        4         4
+186  Manifold Solid B-rep Object                      1         1
+190  Plane surface entity                             9         9
+192  Right circular cylindrical surface               7         7
+194  Right circular conical surface                   2         2
+198  Toroidal surface                                 5         5
+314  Color definition                                 3         3
+406  Property                                         1         1
+502  Vertex list                                      1         1
+504  Edge entity                                      1         1
+508  Loop entity                                     60        60
+510  Face entity                                     32        32
+514  Shell entity                                     2         2
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       0
+Surface feature(s)                     5
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Monday, January 05, 2015 19:01:46
+Finish time: Monday, January 05, 2015 19:01:49
+Processing time: 0 days, 00 hours, 00 mins, 03 secs

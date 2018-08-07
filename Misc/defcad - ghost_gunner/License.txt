@@ -1,0 +1,17 @@
+
+CC0 1.0 Universal (CC0 1.0) 2015 - 2018 Defense Distributed
+
+
+
+All design files and models by Defense Distributed are licensed under Creative Commons Zero, which means you can copy, modify, distribute and use the files for free, including for commercial purposes, without asking permission from or providing attribution to Defense Distributed.
+
+-The Product is provided "as is," without warranty of any kind.
+Incorporated hardware and software may be sub-licensed under the terms of separate licenses, including:
+-328p Uno Driver, Copyright 2012 Blacklabel Development, Inc.
+-zlib and minizip
+-Grbl(tm) v1.0
+Copyright (c) 2012-2017 Sungeun K. Jeon
+Grbl v1.0 is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+Grbl v1.0 is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with Grbl v1.0.  
+If not, see <http://www.gnu.org/licenses/>.

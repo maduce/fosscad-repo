@@ -1,0 +1,17 @@
+Title DDCutOSX
+Version 1.09
+Description Installation of the Ghost Gunner application.
+DefaultLocation /
+DeleteWarning 
+
+### Package Flags
+
+NeedsAuthorization NO
+Required NO
+Relocatable NO
+RequiresReboot NO
+UseUserMask NO
+OverwritePermissions NO
+AllowBackRev NO
+RootVolumeOnly NO
+OnlyUpdateInstalledLanguages NO

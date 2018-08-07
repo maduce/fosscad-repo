@@ -1,0 +1,77 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : 
+Receiving System Product I.D.: 
+File Name                    : C:\Users\Jazbec\Desktop\Beretta_iges.igs
+Sending System               : Rhinoceros ( Jan 18 2007 )
+Preprocessor Version         : Trout Lake IGES 012 Jan 18 2007
+File Creation Date           : 130307.120839
+Model Creation Date          : 130307.120839
+Units                        : MM
+Model Space Scale            : 1
+Author                       : 
+Organization                 : 
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+ERROR:   DE#  1759, TYPE   143: Error repaired by using 3D trim curves.
+ERROR:   DE#  9953, TYPE   143: Error repaired by using 3D trim curves.
+ERROR:   DE# 11695, TYPE   143: Error repaired by using 3D trim curves.
+ERROR:   DE# 12633, TYPE   143: Error repaired by using 3D trim curves.
+ERROR:   DE# 27125, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27125, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 27219, TYPE   128: Unable to create a bspline surface due to invalid data.
+ERROR:   DE# 27219, TYPE   128: Unable to create a bspline surface due to invalid data.
+ERROR:   DE# 36621, TYPE   128: Unable to create a bspline surface due to invalid data.
+ERROR:   DE# 36621, TYPE   128: Unable to create a bspline surface due to invalid data.
+ERROR:   DE# 36691, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 36691, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 42827, TYPE   143: Error repaired by using 3D trim curves.
+ERROR:   DE# 55077, TYPE   143: Problem encountered in boundary loop.
+ERROR:   DE# 55077, TYPE   143: Error repaired by using 3D trim curves.
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              14
+  Highest number of significant digits:                     14
+  Average number of significant digits:                13.9002
+  Maximum distance to origin:                          498.864
+  Minimum distance to origin:                        0.0137586
+  Effective number of significant digits:                   14
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+126  Rational B-spline curve                      29958     29958
+128  Rational B-spline surface                     3445      3437
+141  Boundary                                      2879      2879
+143  Bounded surface                               2658      2658
+314  Color definition                                 1         1
+406  Property                                         1         1
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       31
+Surface feature(s)                     39
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Friday, July 06, 2018 13:45:39
+Finish time: Friday, July 06, 2018 13:46:29
+Processing time: 0 days, 00 hours, 00 mins, 50 secs

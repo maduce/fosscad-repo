@@ -1,0 +1,5 @@
+Run troubleshooting programs through DDCut to address software issues and test functionality of various systems.
+
+Lower T-Slot Problem.dd - Lowers the t-slot platform 35 mm from it's current position without homing.
+
+Spindle Warmup.dd - run spindle up to full speed for several minutes to free up bearings/test spindle-motor function.

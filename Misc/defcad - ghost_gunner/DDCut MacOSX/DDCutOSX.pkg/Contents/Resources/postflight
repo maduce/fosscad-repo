@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# Check if directory already exists,
+# if it doesnt, create one.
+V_MY_PATH=$HOME
+# echo "$V_MY_PATH"
+
+if [ ! -d "$V_MY_PATH/Library/Application Support/DDCut" ]; then
+# echo "not found"
+
+    cp -R "/Library/Application Support/DDCut" ~/Library/"Application Support"/
+
+	sleep 3
+    rm "$V_MY_PATH/Library/Application Support/DDCut/ghost.prop"
+	#chmod $HOME/ddcut
+else
+#echo "found"
+    rm "$V_MY_PATH/Library/Application Support/DDCut/ghost.prop"
+fi
+
+chown -R $USER ~/Library/"Application Support"/DDCut

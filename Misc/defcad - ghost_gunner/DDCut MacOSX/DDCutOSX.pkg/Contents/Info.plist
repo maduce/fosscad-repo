@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleGetInfoString</key>
+	<string>MACDDCut 1.08 Copyrights © 2017 Defense Distributed</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.mygreatcompany.pkg.DDCutOSX</string>
+	<key>CFBundleName</key>
+	<string>MACDDCut</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.9</string>
+	<key>IFMajorVersion</key>
+	<integer>1</integer>
+	<key>IFMinorVersion</key>
+	<integer>8</integer>
+	<key>IFPkgBuildDate</key>
+	<date>2018-01-04T00:21:05Z</date>
+	<key>IFPkgBuildVersion</key>
+	<string>16F73</string>
+	<key>IFPkgCreator</key>
+	<string>IcebergBuilder 1.3.1</string>
+	<key>IFPkgFlagAllowBackRev</key>
+	<false/>
+	<key>IFPkgFlagAuthorizationAction</key>
+	<string>NoAuthorization</string>
+	<key>IFPkgFlagDefaultLocation</key>
+	<string>/</string>
+	<key>IFPkgFlagFollowLinks</key>
+	<false/>
+	<key>IFPkgFlagInstalledSize</key>
+	<integer>169408</integer>
+	<key>IFPkgFlagIsRequired</key>
+	<false/>
+	<key>IFPkgFlagOverwritePermissions</key>
+	<false/>
+	<key>IFPkgFlagRelocatable</key>
+	<false/>
+	<key>IFPkgFlagRestartAction</key>
+	<string>NoRestart</string>
+	<key>IFPkgFlagRootVolumeOnly</key>
+	<false/>
+	<key>IFPkgFlagUpdateInstalledLanguages</key>
+	<false/>
+	<key>IFPkgFormatVersion</key>
+	<real>0.10000000149011612</real>
+	<key>IFRequirementDicts</key>
+	<array>
+		<dict>
+			<key>LabelKey</key>
+			<string>Needs ddcut folder</string>
+			<key>Level</key>
+			<string>requires</string>
+			<key>SpecArgument</key>
+			<string></string>
+			<key>SpecType</key>
+			<string>bundle</string>
+			<key>TestObject</key>
+			<string></string>
+			<key>TestOperator</key>
+			<string>=</string>
+		</dict>
+	</array>
+</dict>
+</plist>

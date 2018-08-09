@@ -4,7 +4,7 @@
 Derwood
 
 #### Version
-1.1
+1.2
 
 #### Description
 FINALLY! This is the AP-9 9mm Pistol by Derwood. The AP-9 is inspired by the Shuty MP-1 and Gluty, also by Derwood. Special thanks to Warfairy for his contributions to the lower receiver for this project. The upper, bolt design and ejector have been improved and the overall design is easier to make.
@@ -40,4 +40,10 @@ FINALLY! This is the AP-9 9mm Pistol by Derwood. The AP-9 is inspired by the Shu
 * Flatten the front of the bolt after you have glued it together with a file or lathe.
 
 #### Changelog
+* v1.2: 
+** Upper - accepts glock and after market barrels. beveled exterior edges to reduce support. Added keepers to eliminate ejector jumping out of pocket.
+** Buffer Tube - eliminated need for interior support
+** Ejector - eliminated flexing
+** Ejector Pivot - now has two anchoring points for more stability
+
 * v1.1 -  Upgrade to a steel tip bolt housing and new upper for OEM glock barrel.

@@ -41,9 +41,9 @@ FINALLY! This is the AP-9 9mm Pistol by Derwood. The AP-9 is inspired by the Shu
 
 #### Changelog
 * v1.2: 
-** Upper - accepts glock and after market barrels. beveled exterior edges to reduce support. Added keepers to eliminate ejector jumping out of pocket.
-** Buffer Tube - eliminated need for interior support
-** Ejector - eliminated flexing
-** Ejector Pivot - now has two anchoring points for more stability
+ * Upper - accepts glock and after market barrels. beveled exterior edges to reduce support. Added keepers to eliminate ejector jumping out of pocket.
+ * Buffer Tube - eliminated need for interior support
+ * Ejector - eliminated flexing
+ * Ejector Pivot - now has two anchoring points for more stability
 
 * v1.1 -  Upgrade to a steel tip bolt housing and new upper for OEM glock barrel.

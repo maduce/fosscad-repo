@@ -11,5 +11,4 @@ Here we have a generation 3 Glock 26 frame by BadJob. it has the slide rails on 
 
 This is a plastic railed version tested. The rail holes version will be tested with full slide after I make rails. Printed in Nylon.
 
-This design is dimensionally accurate however we do not recommend it for 3dprint
-ed use. Further efforts are being made to reinforce this design.
+This design is dimensionally accurate however we do not recommend it for 3dprinted use. Further efforts are being made to reinforce this design.

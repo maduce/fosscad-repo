@@ -10,7 +10,7 @@ This pack is a collection of the newest FOSSCAD CAD files including all previous
 
 # Version
 
-* 4.8 (Ishikawa)
+* 4.9 Alpha (unnamed)
 
 # Author
 * FOSSCAD

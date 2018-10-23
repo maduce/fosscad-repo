@@ -40,16 +40,17 @@ FINALLY! This is the AP-9 9mm Pistol by Derwood. The AP-9 is inspired by the Shu
 * Flatten the front of the bolt after you have glued it together with a file or lathe.
 
 #### Changelog
-* v1.2a: 1. Added AP9 sight rail. 
-         2. Added optional quad rail barrel retainer(replaces derwoods barrel retainer).
-         3. Added optional arm brace for 36mm buffer.
-         4. Added optional reinforced buffer tube and attachable M4 stock(replaces derwoods buffer tube).
-         5. Added optional improved mag release pivot retainer with 2 screw holes(replaces derwoods mag release pivot retainer).
-         6. Added optional foregrip for use with quad rail barrel retainer.
-         7. Added optional skeleton AR-15 grip.
-         8. Added optional skeleton foregrip.
-         9. Added optional 45 degree selector switch since the regular 90 degrees doesn't give much room.
-        10. Added derwoodvw's AP9 video build tutorial just in case it is purged.
+* v1.2a:
+  *  Added AP9 sight rail. 
+  *  Added optional quad rail barrel retainer(replaces derwoods barrel retainer).
+  *  Added optional arm brace for 36mm buffer.
+  *  Added optional reinforced buffer tube and attachable M4 stock(replaces derwoods buffer tube).
+  *  Added optional improved mag release pivot retainer with 2 screw holes(replaces derwoods mag release pivot retainer).
+  *  Added optional foregrip for use with quad rail barrel retainer.
+  *  Added optional skeleton AR-15 grip.
+  *  Added optional skeleton foregrip.
+  *  Added optional 45 degree selector switch since the regular 90 degrees doesn't give much room.
+  *  Added derwoodvw's AP9 video build tutorial just in case it is purged.
          * Print with same settings as derwoods parts. 
 
 Rafts: Yes / 

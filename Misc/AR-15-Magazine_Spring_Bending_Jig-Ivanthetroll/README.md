@@ -1,4 +1,4 @@
-# AR-15 Magazine Spring Bending Jig - 'Grewal Jig' -
+# AR-15 Magazine Spring Bending Jig - 'Grewal Jig'
 
 #### Author
  Ivanthetroll (@Ivanthetroll12)
@@ -41,5 +41,5 @@ Here's a video link to using the jig - https://www.bitchute.com/channel/976M3ljo
 17. The spring may jump out at you, as we only crimped it in place initially, we didn't set any angles.  The coils will be offset by 30-45 degrees each.  You will have to take your pliers again, and correct the angles.  This is much easier than it seems, just take your time.  Bend each coil down to make the sides parallel.  I took three passes - one where I just got the bends parallel to themselves, then one where I got them parallel to each other, then another pass of making them parallel to themselves.
 18. If you didn't wrap your spring tight enough on the jig, you may need to get a block of wood longer than the spring, put it on top of the spring, and hammer down on the wood.  This can flatten the spring some, at the cost of skewing the horizontal bend angles.
 
-__Notes__
+__Notes:__
 I've made quite a few springs this way, and haven't failed a spring yet.  It works really well in my experience.  As I mentioned above, DM me @Ivanthetroll12 if you have questions or need help.

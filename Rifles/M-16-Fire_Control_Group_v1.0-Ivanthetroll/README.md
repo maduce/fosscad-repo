@@ -28,4 +28,4 @@ The lower in the source files should be to spec, but I cannot verify that.  The 
 As usual, this is for education only or whatever.  Don't do anything too fun/stupid.  If you wanted to cast or print FCG parts, this would be a good place to start.
 
 
-DM me @Ivanthetroll12 if you have questions or need help, of if for some reason I've missed something.
+DM me @Ivanthetroll12 if you have questions or need help, or if for some reason I have missed something.

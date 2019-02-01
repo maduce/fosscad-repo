@@ -57,8 +57,8 @@ I imagine people will run into the same issues that I did.  I will touch on the 
 
 * **1.** Bad feeding due to rounds nosediving in the mag
     * **a.** Take a screwdriver and push the follower down.  It should feel smooth.  If it isnt, then your mag body internal may be too rough, your follower may have warped when printing, or your spring (if DIYed) may be too wide (wasnt wrapped tight enough when you wound it).
-        * **i.**	Troubleshoot by swapping to a PMAG spring if you can.  If that makes it smoother, then your DIY spring is at fault.
-		ii.	If it snags at a certain spot in its travel when you push it with a screwdriver, that spot probably has an artifact/burr than needs to be sanded or filed down.
+        * **i.** Troubleshoot by swapping to a PMAG spring if you can.  If that makes it smoother, then your DIY spring is at fault.
+		* **ii.** If it snags at a certain spot in its travel when you push it with a screwdriver, that spot probably has an artifact/burr than needs to be sanded or filed down.
     * **b.** If you are using a DIY spring, your spring pressure may be too low.  Try stretching the spring out a little.
 		i.	Swap out with a PMAG spring.  If it doesnt nosedive rounds, then your spring pressure might be too low.
 * **2.** Mag lips cracking

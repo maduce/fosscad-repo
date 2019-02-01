@@ -13,7 +13,7 @@ This is the result of several months of trials and experimentation with DIY maga
 
 It will be worthwhile to read this entire tutorial and look at the renders; I'll make them as informative and brief as possible.  
 
-The magazine body and follower are changed from the DD mag files, the locking plate and base plate are the same as the DD mag files.  Ive included OBJ files of the parts.  The STL files open in a weird scale in my Slicer.  OBJ files have units attached, so the OBJ files should work fine in your slicer.
+The magazine body and follower are changed from the DD mag files, the locking plate and base plate are the same as the DD-magazine files.  Ive included the parts in  OBJ format as well.  The STL files open in a weird scale in my Slicer.  OBJ files have units attached, so the OBJ files should work fine in your slicer.
 
 Now, this writeup will be lengthy, so I am going to try and format it as best I can.  I'll cover my findings in three parts:
 1.	Materials/filaments, print settings, and techniques.

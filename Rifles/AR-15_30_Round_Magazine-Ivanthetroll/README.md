@@ -15,7 +15,7 @@ It will be worthwhile to read this entire tutorial and look at the renders; I'll
 
 The magazine body and follower are changed from the DD mag files, the locking plate and base plate are the same as the DD mag files.  Ive included OBJ files of the parts.  The STL files open in a weird scale in my Slicer.  OBJ files have units attached, so the OBJ files should work fine in your slicer.
 
-Now, this writeup will be lengthy, so I am going to try and format it as best I can.  Ill cover my findings in three parts:
+Now, this writeup will be lengthy, so I am going to try and format it as best I can.  I'll cover my findings in three parts:
 1.	Materials/filaments, print settings, and techniques.
 2.	Post-processing, fitting the mag.
 3.	Troubleshooting.

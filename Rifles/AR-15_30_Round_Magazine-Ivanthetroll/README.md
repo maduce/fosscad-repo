@@ -55,19 +55,19 @@ The next step isn't super necessary but it does help some.  Take your magazine a
 #### Section 3: Troubleshooting
 I imagine people will run into the same issues that I did.  I will touch on the most common ones I saw over the mags I printed and give my solutions to them.
 
-1.	Bad feeding due to rounds nosediving in the mag
-	a. Take a screwdriver and push the follower down.  It should feel smooth.  If it isnt, then your mag body internal may be too rough, your follower may have warped when printing, or your spring (if DIYed) may be too wide (wasnt wrapped tight enough when you wound it).
-		i.	Troubleshoot by swapping to a PMAG spring if you can.  If that makes it smoother, then your DIY spring is at fault.
+* **1.** Bad feeding due to rounds nosediving in the mag
+    * **a.** Take a screwdriver and push the follower down.  It should feel smooth.  If it isnt, then your mag body internal may be too rough, your follower may have warped when printing, or your spring (if DIYed) may be too wide (wasnt wrapped tight enough when you wound it).
+        * **i.**	Troubleshoot by swapping to a PMAG spring if you can.  If that makes it smoother, then your DIY spring is at fault.
 		ii.	If it snags at a certain spot in its travel when you push it with a screwdriver, that spot probably has an artifact/burr than needs to be sanded or filed down.
-	b.	If you are using a DIY spring, your spring pressure may be too low.  Try stretching the spring out a little.
+    * **b.** If you are using a DIY spring, your spring pressure may be too low.  Try stretching the spring out a little.
 		i.	Swap out with a PMAG spring.  If it doesnt nosedive rounds, then your spring pressure might be too low.
-2.	Mag lips cracking
-	a.	31 rounds were inserted
-		i.	Dont do that.
-	b.	Mag lips were not fused with a soldering iron properly
-		i.	Make sure you solder on all the indicated locations in the image that shows the rear of the mag in the renders folder.
-3.	Double Feeds/bolt cant grab rounds out of mag
-	a.	These issues are technically opposites, but the causes are related.  Either an artifact is present on the mag lips, or the mag lips were sanded too far to remove an artifact.
-		i.	If there is a burr, remove it.  If you sanded on the part of the mag lips that hold down the rounds, your mag body may be junk now.
+* **2.** Mag lips cracking
+    * **a.** 31 rounds were inserted
+        * **i.** Dont do that.
+    * **b.** Mag lips were not fused with a soldering iron properly
+        * **i.** Make sure you solder on all the indicated locations in the image that shows the rear of the mag in the renders folder.
+* **3.** Double Feeds/bolt cant grab rounds out of mag
+    * **a.** These issues are technically opposites, but the causes are related.  Either an artifact is present on the mag lips, or the mag lips were sanded too far to remove an artifact.
+        * **i.** If there is a burr, remove it.  If you sanded on the part of the mag lips that hold down the rounds, your mag body may be junk now.
 
 DM me @Ivanthetroll12 if you have questions or need help.  You can share mags you made with me there as well, as well as any comments you have.

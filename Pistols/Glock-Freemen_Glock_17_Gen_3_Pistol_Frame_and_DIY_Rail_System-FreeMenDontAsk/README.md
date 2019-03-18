@@ -26,6 +26,10 @@ Now, this write-up will be thorough so bear with us. This Readme is broken into 
 
 The difficultly level of this build varies with the user. We are good with tools and I’d say this build is not any harder than making an 80% lower for an AR-15. As time goes on the gun community with gain a better understanding for this design.
 
+**Note:** The included STL files are not high-poly. This should not show up in your prints but some may
+notice this in their slicer. If you wish to use high-poly STL files you can export them from the STEP or
+F3D files which are included in the parts folder.
+
 #### Instruction Videos
 
 To aid you in this project and to make this document MUCH shorter, below is a list of instructional videos. These videos are broken into different parts and are designed to show you things that are difficult to express in writing. We reference these videos throughout this document, you should watch the videos carefully before attempting this build so that you understand this tutorial completely.

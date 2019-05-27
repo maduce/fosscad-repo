@@ -1,10 +1,12 @@
-# Author
+# Freemen Glock 17 Gen 3 Pistol Frame and DIY Rail System
+
+#### Author
 FreeMenDontAskPermission (FreeMenDontAsk)
 
-# Testing & Technical Author
+#### Testing & Technical Author
 Ivanthetroll (@IvanTheTroll12)
 
-# Version
+#### Version
 1.0
 
 #### Description 

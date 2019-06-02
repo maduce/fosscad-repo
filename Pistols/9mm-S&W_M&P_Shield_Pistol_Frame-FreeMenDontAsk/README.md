@@ -1,4 +1,4 @@
-# 9mm S&W M&P Shield
+# 9mm S&W M&P Shield Pistol Frame
 
 #### Author
 FreeMenDontAsk

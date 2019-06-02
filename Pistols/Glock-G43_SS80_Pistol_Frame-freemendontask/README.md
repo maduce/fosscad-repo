@@ -10,7 +10,7 @@ Make your own single stack frame that you complete with Glock 43 parts. This SS8
 
 #### Parts Required
 * G43 OEM Parts Kit
-* SS80 Builders Kit
+* SS80 Builders Tool Set
 
 #### Print Settings
 * 99% infill printed upside down with support

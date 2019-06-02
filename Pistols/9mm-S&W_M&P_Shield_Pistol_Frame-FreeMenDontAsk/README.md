@@ -1,4 +1,4 @@
-# M&P Shield 9MM
+# 9mm S&W M&P Shield
 
 #### Author
 FreeMenDontAsk

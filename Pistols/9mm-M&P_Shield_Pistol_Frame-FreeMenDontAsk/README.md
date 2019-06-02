@@ -22,4 +22,5 @@ This is the 9mm M&P Shield Frame by FreeMenDontAsk. This frame was inspired by t
 1. Upside down
 2. Infill 99%
 3. Shell outer walls #4
+4. Note: you can use PLA or ABS filament.
 

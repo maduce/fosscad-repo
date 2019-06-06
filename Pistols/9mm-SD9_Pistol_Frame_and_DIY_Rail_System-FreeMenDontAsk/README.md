@@ -1,4 +1,4 @@
-# SD9 Pistol Frame and DIY Rail System
+# SD9 9mm Pistol Frame and DIY Rail System
 
 #### Author
 FreeMenDontAsk
@@ -7,9 +7,9 @@ FreeMenDontAsk
 1.0
 
 #### Description
-This the SD9 Pistol Frame and DIY Rail System by FreeMenDontAsk. The frame uses a DIY front rail which you make yourself; see the specsheets. This frame is inspired by the S&W SD9.
+This the SD9 9mm Pistol Frame and DIY Rail System by FreeMenDontAsk. The frame uses a DIY front rail which you make yourself; see the Spec Sheets. This frame is inspired by the S&W SD9 9mm Pistol.
 
-Note: The SD9VE is gun as the SD9 but but made of stainless steel.
+Note: The S&W SD9VE is the same gun as the S&W SD9 but made with stainless steel.
 
 #### Print Settings
 * 99% infill, quality PLA or ABS.

@@ -19,9 +19,9 @@ This is the 380ACP DB380 Pistol Frame by FreeMenDontAsk. The DB380 is a micro-co
 * Glock mag release spring
 * Glock Slide stop spring
 
-# Trigger reset issue
+#### Trigger reset issue
 * Use a small roll pin and a cut down AR detent spring in the hole located under the trigger bar towards the rear
 
-# Assembly
+#### Assembly
 * Assembles like a standard Diamondback DB380 Pistol
 * Some hand filing required 

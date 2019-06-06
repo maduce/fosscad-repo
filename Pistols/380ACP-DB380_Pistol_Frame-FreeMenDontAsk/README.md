@@ -8,7 +8,7 @@ This is the 380ACP DB380 Pistol Frame by FreeMenDontAsk. The DB380 is a micro-co
 
 
 #### Print Settings
-* 99% infill, quality PLA
+* 99% infill, quality PLA or ABS
 
 #### Parts
 

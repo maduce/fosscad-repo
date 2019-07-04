@@ -7,6 +7,7 @@ Ivanthetroll
 #### Version
 1.1
 
+#### Description
 This project represents over 500 hours of time in CAD, over 250 hours of 3D printer running time, over 1000 rounds of ammo, all over the course of six months.
 The end result is worth it - 3D printable Glock mags that cost next to nothing to print, last several hundred rounds, can be printed on essentially any FDM/FFF printer, and require little to no post-processing.
 Below are instructions on printing and troubleshooting the Menendez Mag series.

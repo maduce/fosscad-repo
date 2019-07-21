@@ -1,0 +1,12 @@
+#Libreoffice lock files
+*.~lock.*
+
+#MacOS Desktop Services Store
+.DS_Store
+
+#Vim swap files
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]

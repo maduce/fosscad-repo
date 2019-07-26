@@ -1,4 +1,4 @@
-#﻿ FOSSCAD AR15 Lower Receiver v5.1 GS
+# FOSSCAD AR15 Lower Receiver v5.1 GS
 
 ### Change log
 

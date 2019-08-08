@@ -10,7 +10,7 @@ BobtheBuilder
 This is the Glock G19 BTB Gen 3 Pistol Frame and DIY Rail System by FreeMenDontAsk. The system relies on a DIY metal rail system which is added to a printed frame. 
 
 #### Instruction Videos
-Below is a list of said videos for FreeMenDontAsk's Glock 17 Gen 3 Pistol Frame and DIY Rail System. The G19 BTB design is similar in construction and so the follow videos may be of useful.
+Below is a list of videos for FreeMenDontAsk's Glock 17 Gen 3 Pistol Frame and DIY Rail System. The G19 BTB design is similar in construction and so the follow videos may be of useful.
 
 ##### FreeMan's Glock 17 Assembly Tutorial Playlist:
 https://www.youtube.com/playlist?list=PLZzfUB_pwdJ58NWjy10gbhjhukDxxcxUf

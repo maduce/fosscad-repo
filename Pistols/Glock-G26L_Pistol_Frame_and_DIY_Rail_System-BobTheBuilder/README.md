@@ -4,7 +4,7 @@
 BobTheBuilder
 
 #### Version
-1.0
+1.1
 
 
 #### Description
@@ -88,4 +88,7 @@ General Assembly:
 * Ensure fitment of the slide with barrel and spring removed
 * Ensure fitment and function of the pistol with barrel and spring installed
 * Function test! Function test! Function test! Rack that slide real hard.
+
+#### Changlog
+* v1.1 - updated magazine release spring hole size.
 

@@ -9,7 +9,6 @@ BobtheBuilder
 #### Description
 This is the Glock style G19 BTB Pineapple Standard Pistol Frame and DIY Rail System by BobTheBuilder. This is NOT your normal Glock 19 frame. This is a custom G19 frame that uses a G26 parts kit and a DIY G17 metal rails system.
 
-*MODIFY THE FRAME AND DO YUR CRAZY DESIGN I WANNA SEE INNOVATION!*
 If you come up with something neat send me a message and show me!
 
 ##### History

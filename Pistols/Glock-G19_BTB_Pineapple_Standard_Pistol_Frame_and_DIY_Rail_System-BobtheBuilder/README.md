@@ -59,7 +59,7 @@ Below is a list of tools, parts and materials used to complete this project.
 ##### Required Parts
 * G26 parts kit 
 * G19 Complete slide
-* DIY G17 Rail system (304 Rails will also work)   
+* DIY G17 Rail system (304Machining Rails will also work)   
 * G19 magazine or larger
 
 **Note:** Technically you can use a G19 parts kit if you cut down the locking block and slide lock spring to size. 

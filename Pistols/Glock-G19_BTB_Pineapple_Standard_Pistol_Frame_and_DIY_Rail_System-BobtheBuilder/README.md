@@ -84,6 +84,7 @@ Note: PLA will not stand up to hot environments. The gun itself will not hold en
 * Hit CTRL+A and right click the model, select **Ungroup Models**
 * Ensure Fuzzy skin is turned on in the experimental preferences and Thickness 0.3, Density 6.0, Point distance should automatically go to .1667
 * Click on ONLY the main model and click the Per Model Settings, select settings>Fuzzy Skin> uncheck **Fuzzy skin**
+
 This should apply fuzzy skin to every body except the model
 
 ##### Post Print Finishing of Frame

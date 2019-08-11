@@ -1,4 +1,4 @@
-# G19 BTB Pineapple Standard 9mm Pistol Frame
+# G19 BTB Pineapple Standard Pistol Frame
 
 #### Author
 BobtheBuilder

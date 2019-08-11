@@ -1,4 +1,4 @@
-# G19 BTB Pineapple Standard Pistol Frame
+# G19 BTB Pineapple Standard Pistol Frame and DIY Rail System
 
 #### Author
 BobtheBuilder

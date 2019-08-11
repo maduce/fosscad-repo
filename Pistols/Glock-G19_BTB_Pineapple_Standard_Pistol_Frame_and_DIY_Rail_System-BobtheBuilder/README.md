@@ -77,14 +77,13 @@ The specs for the rails are minimum dimensions; aim to overshoot them slightly i
 Note: PLA will not stand up to hot environments. The gun itself will not hold enough heat to hurt the frame but a PLA frame sitting in a hot car will damage it.
 
 ##### Fuzzy Skin (Cura Users Only)
-* In Cura, click Preferences->Configure Cura->General-> uncheck "Automatically drop models to build plate"
-* Hit CTRL+A and right click the model -> select "Merge Models". I have no f-ing clue how it knows where to go but it has just always gone to the right place
+* In Cura, click Preferences>Configure Cura>General, uncheck **Automatically drop models to build plate**
+* Hit CTRL+A, right click the model, select **Merge Models**. I have no f-ing clue how it knows where to go but it has just always gone to the right place
 * Reposition the model in the orientation you want (it usually shifts after the last step)
 * Click the Rotate button and select lay flat
-* Hit CTRL+A and right click the model -> select "Ungroup Models"
-* Ensure Fuzzy skin is turned on in the experimental preferences and Thickness .3, Density 6. Point distance should automatically go to .1667
-* Click on ONLY the main model and click the Per Model Settings->Select settings->Fuzzy Skin-> uncheck Fuzzy skin. 
-
+* Hit CTRL+A and right click the model, select **Ungroup Models**
+* Ensure Fuzzy skin is turned on in the experimental preferences and Thickness 0.3, Density 6.0, Point distance should automatically go to .1667
+* Click on ONLY the main model and click the Per Model Settings, select settings>Fuzzy Skin> uncheck **Fuzzy skin**
 This should apply fuzzy skin to every body except the model
 
 ##### Post Print Finishing of Frame

@@ -24,7 +24,7 @@ Yea I was tired and should have put it in the ReadMe.. this all started because 
 * So if you are buying a kit for this project, get a G26 kit. If you have a G19 kit laying around you want to use and have a bench grinder available, its an easy  mod that does not affect reliability.
 
 #### Instruction Videos
-Below is a list of said videos for FreeMenDontAsk's Glock 17 Gen 3 Pistol Frame and DIY Rail System. The G19 BTB design is similar in construction and so the follow videos may be of useful.
+Below is a list of videos for FreeMenDontAsk's Glock 17 Gen 3 Pistol Frame and DIY Rail System. The G19 BTB Pineapple Standard design is similar in construction and so the follow videos may be of useful.
 
 ##### FreeMan's Glock 17 Assembly Tutorial Playlist:
 https://www.youtube.com/playlist?list=PLZzfUB_pwdJ58NWjy10gbhjhukDxxcxUf

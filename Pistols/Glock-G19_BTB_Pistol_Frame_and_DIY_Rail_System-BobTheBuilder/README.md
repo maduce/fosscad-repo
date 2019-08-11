@@ -42,7 +42,8 @@ Below is a list of tools, parts and materials used to complete this project.
 * Small punches
 
 ##### Required Parts
-* Complete G19 Parts Kit
+* Complete G26 parts kit 
+* G19 Complete slide
 * DIY Rails (DIY G17 rails)
 
 #### The Rails

@@ -1,4 +1,4 @@
-# G19 BTB Pineapple Standard Pistol Frame and DIY Rail System
+# G19 BTB Pineapple STD Pistol Frame and DIY Rail System
 
 #### Author
 BobtheBuilder
@@ -7,7 +7,7 @@ BobtheBuilder
 1.0
 
 #### Description
-This is the Glock style G19 BTB Blaster 9mm Pistol Frame and DIY Rail System by BobTheBuilder. This is NOT your normal Glock 19 frame. This is a custom G19 frame that uses a G26 parts kit and a DIY G17 metal rails system.
+This is the Glock style G19 BTB Pineapple Standard Pistol Frame and DIY Rail System by BobTheBuilder. This is NOT your normal Glock 19 frame. This is a custom G19 frame that uses a G26 parts kit and a DIY G17 metal rails system.
 
 *MODIFY THE FRAME AND DO YUR CRAZY DESIGN I WANNA SEE INNOVATION!*
 If you come up with something neat send me a message and show me!
@@ -77,6 +77,15 @@ The specs for the rails are minimum dimensions; aim to overshoot them slightly i
 * Orientation: Print frame upside down
 
 Note: PLA will not stand up to hot environments. The gun itself will not hold enough heat to hurt the frame but a PLA frame sitting in a hot car will damage it.
+
+##### Fuzzy Skin (Cura Users Only)
+* In Preferences->Configure Cura->General-> uncheck "Automatically drop models to build plate"
+* Hit CTRL+A and right click the model -> select "Merge Models". I have no f-ing clue how it knows where to go it has just always gone to the right place
+* Reposition the model in the orientation you want (it usually shifts after the last step)
+* Click the Rotate button and select lay flat.
+* Hit CTRL+A and right click the model -> select "Ungroup Models"
+* Ensure Fuzzy skin is turned on in the experimental preferences and Thickness .3, Density 6. Point distance should automatically go to .1667
+* Click on ONLY the main model and click the Per Model Settings->Select settings->Fuzzy Skin-> uncheck Fuzzy skin. This should apply fuzzy skin to every body except the model.
 
 ##### Post Print Finishing of Frame
 Refer to the instruction videos above. In general, it is the same process as putting a normal Glock together but with the required rails. The only part that really needs hand fitting is the locking block. The locking block needs to be tight, so it may take a bit to get situated correctly. 

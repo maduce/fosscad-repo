@@ -9,8 +9,6 @@ BobtheBuilder
 #### Description
 This is the Glock style G19 BTB Pineapple Standard Pistol Frame and DIY Rail System by BobTheBuilder. This is NOT your normal Glock 19 frame. This is a custom G19 frame that uses a G26 parts kit and a DIY G17 metal rails system.
 
-If you come up with something neat send me a message and show me!
-
 ##### History
 Yea I was tired and should have put it in the ReadMe.. this all started because someone asked me to do a G19.. I said naahhh.. because lazy.. and theen it was stuck in my head so I did, but because I made the G26L and I knew it well I just used that to extend the grip.. the thing is the G26L was designed using a G19 upper half and shortening the grip. the problem is the G19 doesnt have enough room for the front the G17 DIY rail block that was available. So you either make new rails with different variants, or use a G26 parts kits (for a G26L which makes perfect sense). It gets weird when you extend the grip back to a G19 length because the top half sttarted as a G19 that got shortened..Extend it and its a G19 again.. well yes, but it still uses a G26 parts kit.
 

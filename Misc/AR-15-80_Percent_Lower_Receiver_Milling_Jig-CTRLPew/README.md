@@ -1,17 +1,17 @@
 # 80% AR-15 Lower Receiver Milling Jig
 
 #### Author, Testing & Technical Author
-buildtoshoot
+CTRL+Pew
 
 #### Version
 1.0
 
 #### Description 
-This is the 80% AR-15 Lower Receiver Milling Jig by Buildtoshoot.  This is a self-aligning jig which allows one to finish 80% lowers from a variety of manufacturers using only a drill press and a few common tools.
+This is the 80% AR-15 Lower Receiver Milling Jig by CTRL+Pew. This is a self-aligning jig which allows one to finish 80% lowers from a variety of manufacturers using only a drill press and a few common tools.
 
 Mill following the instructions from SpecSheets/Jig_Manual_80_Percent_Arms.rev1.1S.doc.pdf skipping the drilling step since i didnt make a drilling plate.
 
-Follow me on Instagram @buildtoshoot for more shenanigans. https://www.instagram.com/buildtoshoot/
+Find me on the internet for more shenanigans. https://www.ctrlpew.com 
 
 #### Hardware
 ##### Sides

@@ -8,4 +8,6 @@ These handguards are meant to replace the standard clamshell guards on carbine l
 
 3 Versions included, railed (single and 3-sided) and smooth. Railed handguard rail is co-planar with Mil-spec A3 upper receivers. Both versions can be installed on either top or bottom interchangeably. Use arrow on inside of handguard as they may only be installed in one direction. Larger opening goes to rear.
 
+For a quad-railed handguard, print one 3-railed and one single railed handguard.
+
 Highly recommended to line inside surface of gas tube channel with aluminium foil or something to deflect heat of gas tube away from plastics. Higher temperature plastics will work best.

@@ -1,4 +1,4 @@
-# Description
+# AR-15 Anderson Firearms Ghostfire Lower Receiver
 
 #### Author 
 PotatoSociety
@@ -8,7 +8,7 @@ PotatoSociety
 
 #### Description
 
-This is the Anderson Firearms Ghostfire AR-15 Lower receiver by PotatoSociety. This is WILD design that took some real thinking to make. This lower receiver modular like the Bolt Lower Receiver by RollaTroll but the similarities really stop there. This is whole new way of looking at the a modular AR-15 lower receiver. ENJOY!
+This is the Anderson Firearms Ghostfire AR-15 Lower Receiver by PotatoSociety. This is WILD design that took some real thinking to make. This lower receiver modular like the Bolt Lower Receiver by RollaTroll but the similarities really stop there. This is whole new way of looking at the a modular AR-15 lower receiver. ENJOY!
 
 #### Required Parts
 

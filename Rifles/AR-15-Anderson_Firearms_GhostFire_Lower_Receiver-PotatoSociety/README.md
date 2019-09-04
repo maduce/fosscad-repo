@@ -1,4 +1,4 @@
-# AR-15 Anderson Firearms Ghostfire Lower Receiver
+# Anderson Firearms Ghostfire AR-15 Lower Receiver
 
 #### Author 
 PotatoSociety

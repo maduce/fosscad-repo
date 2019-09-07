@@ -48,7 +48,8 @@ I recommend that you print in eSun PLA+, don't get too upset when you print it i
 * Testing has netted a magazine that is good for at least 500.  Make sure to load each mag carefully as to not scrape the rounds along the mag lips when loading.
 		 
 
-Want to join the movement? Head over to 
+Want to join the community?
 * keybase.io/team/det_disp 
 * keybase.io/team/fosscad_org
+* [Talk to us on IRC Chat (web Client)](http://webchat.oftc.net/?randomnick=0&channels=fosscad&prompt=1&uio=d4)
 

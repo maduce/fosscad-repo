@@ -29,7 +29,7 @@ Note that the included STLs are scaled and oriented correctly!
 * Print locking tab bottom down, no supports.
 * Print follower upside down, with the tallest flat portion to the print bed.  Use supports from print bed, but not full supports.
 	
-##### Print Settings
+##### Print Setup
 I recommend that you print in eSun PLA+, don't get too upset when you print it in ABS and it works poorly.
 		 
 * Nozzle Temp             - 230C

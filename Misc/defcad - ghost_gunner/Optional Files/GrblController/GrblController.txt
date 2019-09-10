@@ -1,0 +1,1 @@
+Optional interface for advanced users. Install GrblController to directly input G-code to the Ghost Gunner. GRBLController is useful for creating new g-code files. Baud Rate = 115200. 

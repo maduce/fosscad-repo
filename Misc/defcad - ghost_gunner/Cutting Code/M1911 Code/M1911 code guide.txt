@@ -1,0 +1,14 @@
+M1911 Code/
+
+M1911_mill+drill.dd - standard code runs rail slot cutting operation, barrel seat milling operation, and drills holes on M1911 .45.
+
+
+ADDITIONAL M1911 CODE/
+
+M1911_mill.dd - run rail slot cutting operation and barrel seat milling operation for M1911 .45. 
+
+M1911_drill.dd - run hole drilling operations for M1911 .45.
+
+M1911_barrelseat.dd - use if you've already completed the rail slot cutting operation to skip to the barrel seat milling operation for a M1911 .45. (Does not use tolerance check feature). 
+
+M1911_mill+drill-nocheck.dd - use if you have tried numerous times to complete standard M1911_mill+drill.dd and cannot proceed past tolerance check for M1911 .45. 

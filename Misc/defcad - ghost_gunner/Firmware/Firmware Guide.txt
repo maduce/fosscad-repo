@@ -1,0 +1,55 @@
+Defense Distributed recommends running the latest firmware on all Ghost Gunner machines. 
+DD2V7.hex is the latest firmware for the Ghost Gunner 2 and upgraded Ghost Gunner 1 units.
+
+Run DDcut 
+
+
+
+Plug in Ghost Gunner power supply and connect usb cable to computer.
+
+ 
+
+Launch DDcut, then click on the "Settings/Tools" button in the lower right corner. 
+
+
+
+Click "Open Firmware File" and select the desired firmware version from the firmware folder. 
+
+DD2V7.hex is the most current firmware for the Ghost Gunner 2. 
+
+DD1V0.hex is the last update for the original GG1 control board. GG1 units with upgraded electronics use DD2V7.hex firmware. 
+
+Click "Upload Firmware to Ghost Gunner". 
+
+
+
+The firmware upgrade process should take about 10 seconds.  If DDcut immediately returns, then DDcut wasn't able to upgrade the firmware.
+
+
+
+_______________________________________________________
+
+
+
+Use XLoader to install firmware on the Ghost Gunner 2 control board if you have trouble loading firmware through DDCut. 
+
+
+1: Plug in Ghost Gunner.
+
+2: Launch XLoader.
+
+3: Select the firmware version you want to upload.
+a: Ghost Gunner 2 and upgraded Ghost Gunner 1 upload DD2V7.hex in Ghost Gunner\Firmware\GG2\
+b: Original Ghost Gunner 1 upload DD1V0.hex in Ghost Gunner\Firmware\GG1\
+
+4: Select the COM port.
+
+5: Verify baud is 115200.  
+
+6: Verify device is "Uno(ATmega328)".
+
+7: Click Upload.
+
+8: If you installed DD2V7 firmware: Open a connection to Ghost Gunner (e.g. using grbl Controller) and send the command '$RST=*'.  This updates the EEPROM.  You must update the EEPROM each time you upgrade the firmware.  DD2v2 and previous don't require this step and will return an error, which is OK.
+Note: The EEPROM stores information about Ghost Gunner's specific geometry. This information is stored differently in certain firmware versions.  If the EEPROM is not reset after updating the firmware, then the settings might not match.
+
